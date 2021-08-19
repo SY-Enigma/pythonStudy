@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021/8/12 13:31
 # @Author  : suyang
-# @FileName: C1.py
+# @FileName: 装饰器.py
 # @Software: PyCharm
 
 # 可变参数
